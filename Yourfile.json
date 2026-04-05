@@ -1,8 +1,8 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
+        "device_id": "ac6c15848b12647f",
+        "key": "KRISHNABHAI1",
+        "expirydate": "31-12-2027",
         "Allowoffline": true
     },
     {
@@ -15,5 +15,5 @@
         "device_id": "ac6c15848b12647f",
         "key": "KRISHNABHAI1",
         "expirydate": "15-06-2027",
-        "Allowoffline": True
+        "Allowoffline": true
     },
